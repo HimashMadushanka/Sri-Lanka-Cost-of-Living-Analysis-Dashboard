@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Cost of Living & Inflation Analysis
+# Sri Lanka Cost of Living & Inflation Analysis
 
 ## 📷 Dashboard Screenshots
 
