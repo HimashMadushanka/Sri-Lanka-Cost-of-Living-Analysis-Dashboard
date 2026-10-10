@@ -36,7 +36,7 @@ This project delivers an interactive **Power BI analytical dashboard** that tran
 ---
 
 ### 2. Regional Deep-Dive — Southern Province & Matara District
-*Sub-regional drill-down focusing on Southern Province retail dynamics and district-specific market trends
+Sub-regional drill-down focusing on Southern Province retail dynamics and district-specific market trends
 
 <p align="center">
   <img src="screenshots/dashboard_2.png" alt="Regional Deep-Dive - Southern Province Matara District" width="100%">
@@ -113,18 +113,15 @@ Data cleaning and transformations were performed using **Power Query** in Micros
 
 ## 🎯 Strategic Recommendations
 
-- 🌾 **Strengthen Monitoring of Staple Food and Vegetables**: Implement high-frequency price tracking at major Dedicated Economic Centers (e.g., Dambulla, Keppetipola, Peliyagoda) to identify price inflation early.
-- 🚚 **Optimize Regional Supply Chains & Cold Storage**: Reduce transport and spoilage costs between agrarian production regions and high-cost consumer districts.
-- 🎯 **Targeted Welfare Support**: Leverage district-level price index data to adjust social safety net transfers (e.g., *Aswesuma*) in regions facing above-average inflation.
-- 📊 **Incorporate Wage & Purchasing Power Data**: Integrate household wage data into future dashboards to evaluate real purchasing power rather than nominal price changes alone.
-- 🔍 **Prioritize High and Very High Tier Items**: Investigate import tariffs, transport margins, and middleman markups on items categorized in the High and Very High price brackets.
+-  **Strengthen Monitoring of Staple Food and Vegetables**: Implement high-frequency price tracking at major Dedicated Economic Centers (e.g., Dambulla, Keppetipola, Peliyagoda) to identify price inflation early.
+-  **Optimize Regional Supply Chains & Cold Storage**: Reduce transport and spoilage costs between agrarian production regions and high-cost consumer districts.
+-  **Targeted Welfare Support**: Leverage district-level price index data to adjust social safety net transfers (e.g., *Aswesuma*) in regions facing above-average inflation.
+-  **Incorporate Wage & Purchasing Power Data**: Integrate household wage data into future dashboards to evaluate real purchasing power rather than nominal price changes alone.
+-  **Prioritize High and Very High Tier Items**: Investigate import tariffs, transport margins, and middleman markups on items categorized in the High and Very High price brackets.
 
 ---
 
 ## 🚀 How to Run the Project
-
-### Prerequisites
-- [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free download on Windows 10/11)
 
 ### Execution Steps
 1. **Clone the Repository**:
